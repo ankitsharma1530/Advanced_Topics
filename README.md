@@ -2,3 +2,4 @@
 
 1. Segment Tree
 2. Tries
+3. Bit-Magic
